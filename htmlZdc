@@ -1,0 +1,128 @@
+
+<html>
+
+<title>Zodiac</title>
+<BODY background="space.png">
+<font color="#FFFFFF">
+
+<center><h1>SIGNOS</h1></center>
+
+
+<hr>
+<br>
+<br>
+
+<div>
+<li><h2>Aries</h2></li>
+<img src="aries.png" alt="some text" width=70 height=50>
+<h4>Áries ou Carneiro é o primeiro signo astrológico do zodíaco, situado entre Peixes e Touro e associado à constelação de Aries. Seu símbolo é um carneiro.</h4>
+</div>
+
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Touro</h2></li>
+<img src="taurus.png" alt="some text" width=70 height=50>
+<h4>Touro ou Tauros é o segundo signo astrológico do zodíaco, situado entre Áries e Gêmeos e associado à constelação de Taurus. Seu símbolo é um touro.</h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Gemeos</h2></li>
+<img src="gemeos.png" alt="some text" width=70 height=50>
+<h4>Gêmeos ou Gémeos, ou ainda Gemini, é o terceiro signo astrológico do zodíaco, situado entre Touro e Câncer/Caranguejo e associado à constelação de Gemini.</h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Cancer</h2></li>
+<img src="gemeos.png" alt="some text" width=70 height=50>
+<h4>Câncer ou Caranguejo é o quarto signo astrológico do zodíaco, situado entre Gêmeos/Gémeos e Leão e associado à constelação de Cancer. Seu símbolo um caranguejo. </h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Leao</h2></li>
+<img src="gemeos.png" alt="some text" width=70 height=50>
+<h4>Leão ou Leo é o quinto signo astrológico do zodíaco, situado entre Câncer/Caranguejo e Virgem e associado à constelação de Leo. Seu símbolo é um leão.</h4>
+
+
+<br>
+<br>
+<li><h2>Virgem</h2></li>
+<img src="virgin.png" alt="some text" width=70 height=50>
+<h4>Virgem ou Virgo é o sexto signo astrológico do zodíaco, situado entre Leão e Libra e associado à constelação de Virgo. Seu símbolo é uma virgem.</h4>
+
+<br>
+<br>
+<br>
+<h2>Libra</h2></li>
+<img src="libras.png" alt="some text" width=70 height=50>
+<h4>Libra ou Balança é o sétimo signo astrológico do zodíaco, situado entre Virgem e Escorpião e associado à constelação de Libra. Seu símbolo é uma balança. </h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Escorpiao</h2></li>
+<img src="scorpion.png" alt="some text" width=70 height=50>
+<h4>Escorpião é o oitavo signo astrológico do Zodíaco, originário da constelação de Scorpius. Ele mede 210 ° –240 ° de longitude eclíptica. Sob o zodíaco tropical, o Sol transita em média entre 23 de outubro e 22 de novembro.</h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Sagitario</h2></li>
+<img src="sargitario.png" alt="some text" width=70 height=50>
+<h4>Sagitário é o nono signo astrológico do zodíaco, situado entre Escorpião e Capricórnio e associado à constelação de Sagittarius. Seu símbolo é o centauro.</h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Capricorio</h2></li>
+<img src="capricornio.png" alt="some text" width=90 height=70>
+<h4>Capricórnio é o décimo signo astrológico do zodíaco, situado entre Sagitário e Aquário e associado à constelação de Capricornus. Seu símbolo é uma cabra. </h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Aquario</h2></li>
+<img src="aquario.png" alt="some text" width=70 height=50>
+<h4>Aquário é o décimo primeiro signo astrológico do zodíaco, situado entre Capricórnio e Peixes e associado à constelação de Aquarius. </h4>
+
+
+<br>
+<br>
+<br>
+
+
+<li><h2>Peixes</h2></li>
+<img src="peixes.png" alt="some text" width=70 height=50>
+<h4>Peixes ou Piscis é o décimo segundo, e último signo astrológico do zodíaco, situado entre Aquário e Áries e associado à constelação de Pisces. Seu símbolo são dois peixes. </h4>
+
+</font>
+</BODY>
+</html>
